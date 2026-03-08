@@ -7,7 +7,9 @@ Create user acount:
 Password:xxxx
 password successfull
 isntalacion docker desktop
+
 Anexo capturas 
+
 <img width="636" height="544" alt="Imagen1" src="https://github.com/user-attachments/assets/1d180129-54cb-496f-a71f-75b1dde16911" />
 <img width="703" height="713" alt="Imagen2" src="https://github.com/user-attachments/assets/7da7b3d2-2935-4ab2-8c80-d5b5c909b171" />
 <img width="713" height="493" alt="Imagen3" src="https://github.com/user-attachments/assets/43426b88-8198-4d29-8d8f-804c870a83c5" />
