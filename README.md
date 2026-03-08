@@ -1,11 +1,19 @@
 # Instalacion-Docker
+
 Comandos de instalacion
+
 wsl --install
+
 wsl --update
+
 Ubunto instalado
+
 Create user acount:
+
 Password:xxxx
+
 password successfull
+
 isntalacion docker desktop
 
 Anexo capturas 
